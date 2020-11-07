@@ -6,8 +6,5 @@ HI,I'm selvam
  3-line added ,baby
  siva added
 welcome,selvam,This time u need to finish
-<<<<<<< HEAD
 welcome,i got the point
-=======
 i gonna create 3-branch to check my knowledge.
->>>>>>> e15583fc92cf87688a82dc1927e320b4276417c4
